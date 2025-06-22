@@ -1,3 +1,3 @@
 # IDS_CICIoT2023
-##Semi-supervised Learning
-__MEAN TEACHER ALGORITHM__
+__Semi-supervised Learning__
+MEAN TEACHER ALGORITHM
